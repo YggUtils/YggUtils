@@ -36,7 +36,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>dev.sessioncore.SessionCore</mainClass>
+                            <mainClass>dev.yggutils.YggUtils</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
