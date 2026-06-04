@@ -1,5 +1,5 @@
 # YggUtils
-[![latest](https://img.shields.io/badge/Latest-v1.0.0-green)](https://github.com/yggutils/yggutils/release)
+[![latest](https://img.shields.io/badge/Latest-v1.0.0-green)](https://github.com/yggutils/yggutils/releases)
 [![chat](https://img.shields.io/badge/chat-discord-blue?logo=discord)](https://chat.vuejs.org)
 
 ---
