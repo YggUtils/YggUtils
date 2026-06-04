@@ -23,7 +23,7 @@ public class YggUtils {
             "https://auth.example.com";
 
     private static final String DEFAULT_SERVERFILE =
-            "CHANGE_ME.jar";
+            "example.jar";
 
     private static final String AUTHLIB_URL =
             "https://github.com/yushijinhun/authlib-injector/releases/download/v1.2.7/authlib-injector-1.2.7.jar";
