@@ -26,7 +26,7 @@ public class YggUtils {
             "example.jar";
 
     private static final String AUTHLIB_URL =
-            "https://github.com/yushijinhun/authlib-injector/releases/download/v1.2.7/authlib-injector-1.2.7.jar";
+            "https://github.com/yushijinhun/authlib-injector/releases/download/v1.2.8/authlib-injector-1.2.8.jar";
 
     private static volatile Process runningProcess;
 
